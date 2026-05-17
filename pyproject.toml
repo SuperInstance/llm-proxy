@@ -3,9 +3,9 @@ requires = ["setuptools>=64"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "llm_proxy"
+name = "llm-proxy"
 version = "0.1.0"
-description = "llm-proxy — extracted from SuperInstance oracle1-workspace"
+description = "Remote language oracle for spreadsheet cells — calls DeepInfra Seed-2.0-mini"
 readme = "README.md"
 requires-python = ">=3.10"
 license = {text = "MIT"}
